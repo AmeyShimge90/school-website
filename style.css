@@ -1,0 +1,41 @@
+.my_nav_bar {
+	position: sticky;
+	top: 0;
+	z-index: 99999;
+}
+
+img {
+	width: 70px;
+}
+
+#marqueestyle {
+	background-color: yellow;
+	color: red;
+	font-size: 130%;
+}
+
+.travel_mainDiv {
+	float: left;
+	border: 2px solid #c7c7c7;
+}
+
+contact_2 h3 {
+	display: inline;
+}
+
+#achivementsID {
+	padding: 10 px;
+}
+
+.movie_head{
+	font-size: 30 px;
+	padding: 5px 25 px;
+	border-radius: 12px;
+	margin-bottom: 15px;
+	width: 100%;
+    display: inline-block;
+}
+
+.movie_head i{
+float: right				;
+}
